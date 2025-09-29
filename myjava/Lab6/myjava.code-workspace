@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../960103-682110164"
+		},
+		{
+			"path": "../../JavaTest_682115042"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "se104_682115042_lab4"
+	}
+}
